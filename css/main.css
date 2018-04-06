@@ -72,7 +72,7 @@ body {
 }
 
 .header__container__title {
-	width: 488px;
+	width: 420px;
 	font-size: 52px;
 	color: #fff;
 	margin-top: 60px;
@@ -83,7 +83,7 @@ body {
 .header__container__lorem {
 	font-size: 14px;
 	line-height: 1.7em;
-	width: 395px;
+	width: 380px;
 	text-align: justify;
 	color: #fff;
 	margin-top: 40px;
